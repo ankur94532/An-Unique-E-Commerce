@@ -4,9 +4,6 @@
   "description": "e-commerce app final",
   "main": "server.js",
   "type": "module",
-  "engines":{
-    "node":"14.x"
-  },
   "scripts": {
     "start": "node server.js",
     "server": "nodemon server.js",
